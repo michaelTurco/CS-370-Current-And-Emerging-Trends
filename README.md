@@ -13,4 +13,4 @@ Computer scientists tinker with computers or code in order to develop easier way
 As a computer scientists, depending on the scale of the problem, I like to break it down into smaller, more achievable tasks. Instead of looking at a large problem as one big thing, I would try to break it into smaller sub-problems, that can each be solved on their own. Each of these sub-problems can also be broken down, and this repeats until eventually something actionable can happen. This process also serves as a way to think about all the project's requirements, while also leaving me with the perfect place to start working on it.
 
 ### What are my ethical responsibilities to the end user and the organization?
-e
+There are a few ethical responsibilities a computer scientist would have to the end user and the organization, such as ensuring their privacy and protection, making sure content they are using isn't stolen or taken without permission, as well as making sure users from all different backgrounds are able to have an enjoyable experience using an application.
