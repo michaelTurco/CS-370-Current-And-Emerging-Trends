@@ -10,7 +10,7 @@ e
 Computer scientists tinker with computers or code in order to develop easier ways to achieve real life goals, or to automate various processes, or to discover new behaviors such as neural networks and AI. Computer scientists handle physical things such as computer chips and components, as well as digital things such as software and code. All of this matters because it is able to push the boundaries of what is possible in our world, and make our lives easier and more convenient by having computers off-load some of the work.
 
 ### How do I approach a problem as a computer scientist?
-e
+As a computer scientists, depending on the scale of the problem, I like to break it down into smaller, more achievable tasks. Instead of looking at a large problem as one big thing, I would try to break it into smaller sub-problems, that can each be solved on their own. Each of these sub-problems can also be broken down, and this repeats until eventually something actionable can happen. This process also serves as a way to think about all the project's requirements, while also leaving me with the perfect place to start working on it.
 
 ### What are my ethical responsibilities to the end user and the organization?
 e
